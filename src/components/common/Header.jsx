@@ -40,7 +40,7 @@ const Header = () => {
             <span>My wishlist</span>
           </div>
 
-          <div className="hidden flex items-center space-x-2">
+          <div className="hidden lg:flex items-center space-x-2">
             <img src="/images/icons/user.png" alt="cart" />
             <span>Sign in</span>
           </div>
